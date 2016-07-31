@@ -1,0 +1,4 @@
+__output/
+*.sh
+device_id
+.memory_history
